@@ -1,1 +1,1 @@
-# EDA-XGBoost-Lasso-KNN-and-other-ML-Models-for-Housing-Price-Predictio
+# EDA-XGBoost-KNN-and-other-ML-Models-for-Housing-Price-Predictions
